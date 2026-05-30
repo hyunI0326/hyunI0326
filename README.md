@@ -30,16 +30,22 @@
 
 ## 🚀 Projects
 
-### 📈 Career Value API
-이력서 분석 및 맞춤형 커리어 코칭을 제공하는 LLM 기반 백엔드 시스템
-- **Stack:** `FastAPI`, `Python`, `Gemini API`
-- **Key Features:** 사용자의 이력 데이터를 분석하여 핵심 스킬 태그를 추출하고 커리어 점수를 생성하는 로직 구현
-
-### 🌱 오영완(Today's English completed)
+### 🌱 오영완(Today's English completed) (2025.09.14 ~ 2025.12.26)
 영단어장 애플리케이션 백엔드 개발
 - **Stack:** `Java`, `Spring Boot`, `MySQL`, `Docker`
 - **Key Features:** YAML 기반의 환경 설정 및 컨테이너화를 통한 안정적인 백엔드 서버 구축 및 데이터베이스 연동
 
+### 📊 학습자 수료율 예측 (2026.01.15 ~ 2026.02.15)
+데이터 분석 및 머신러닝을 활용하여 온라인 학습자의 과정 수료 여부를 예측하는 프로젝트
+- **Stack:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+- **Key Features:** 
+  - 학습 로그 및 인적 데이터를 활용한 탐색적 데이터 분석(EDA) 및 시각화
+  - 주요 변수 도출을 위한 피처 엔지니어링 수행
+  - 머신러닝 알고리즘을 적용하여 수료율 예측 모델 학습 및 성능 평가
 
+### 📈 Career Value API (2026.03.25 ~ 2026.05.14)
+이력서 분석 및 맞춤형 커리어 코칭을 제공하는 LLM 기반 백엔드 시스템
+- **Stack:** `FastAPI`, `Python`, `Gemini API`
+- **Key Features:** 사용자의 이력 데이터를 분석하여 핵심 스킬 태그를 추출하고 커리어 점수를 생성하는 로직 구현
 ---
 📫 **Contact Me:** [hyunhyun0326@gmail.com] | [www.linkedin.com/in/hyuni03] | [www.instagram.com/hyuni03]
