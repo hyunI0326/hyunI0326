@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 - 🎓 **상명대학교**에서 **휴먼AI공학**을 전공하고 있습니다.
 - 💻 **Spring Boot**와 **FastAPI**를 활용한 효율적이고 확장성 있는 백엔드 API 개발에 주력하고 있습니다.
-- 🤖 LLM을 서비스에 연동하고, Pandas와 Scikit-learn, Pytorch을 활용해 데이터 분석 및 모델 학습에 관심이 많습니다.
+- 🤖 LLM을 서비스에 연동하고, Pandas와 Scikit-learn, Pytorch을 활용한 데이터 분석 및 모델 학습에 관심이 많습니다.
 
 ## 🛠️ Tech Stack
 
