@@ -14,14 +14,15 @@
 - FastAPI
 
 ### 🔹 Languages
-- Java, Python, C, C++
+- Java, Python, C
 
 ### 🔹 Database & DevOps
 - MySQL
+- PostgreSQL
 - Docker
 
 ### 🔹 Data & AI
-- Pandas, Matplotlib, Seaborn
+- Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, tensorFlow, Pytorch
 - LLM Integration (Gemini API, OpenAi API)
 
 ### 🔹 Frontend & Tools
