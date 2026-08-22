@@ -6,9 +6,6 @@
 
 **데이터와 AI를 실제 서비스로 연결하는 백엔드 개발자입니다.**
 
-Spring Boot와 FastAPI를 중심으로 백엔드 시스템을 개발하고,
-머신러닝과 LLM을 활용해 실제 문제를 해결하는 서비스 개발에 관심이 있습니다.
-
 <br/>
 
 <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
