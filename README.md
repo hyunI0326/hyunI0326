@@ -21,26 +21,8 @@ Spring Boot와 FastAPI를 중심으로 백엔드 시스템을 개발하고,
 
 ## 👨‍💻 About Me
 
-```java
-public class Developer {
-
-    String name = "Kim Seonghyeon";
-    String major = "Human-centered AI Engineering";
-
-    String[] interests = {
-        "Backend Development",
-        "AI & Machine Learning",
-        "LLM Application",
-        "Data-driven Service"
-    };
-
-    String goal = "Build services that solve real-world problems.";
-}
-```
-
 * 🎓 상명대학교 **휴먼AI공학 전공**
 * ☕ **Java / Spring Boot** 기반 백엔드 개발
-* ⚡ **Python / FastAPI** 기반 AI 서비스 API 개발
 * 🤖 LLM API를 활용한 AI 기능 구현
 * 📊 머신러닝·데이터 분석을 실제 서비스에 적용하는 것에 관심
 * 🐳 Docker와 관계형 DB를 활용한 서비스 환경 구성 경험
