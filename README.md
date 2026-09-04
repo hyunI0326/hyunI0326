@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1D47F7&width=435&lines=Hi!%2C+My+Name+is+SungHyun+Kim" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1D47F7&width=435&lines=Hi!%2C+My+Name+is+SungHyun+Kim" alt="Typing SVG" /></a>
 
 ### Backend Developer · AI & Data Engineering
 
