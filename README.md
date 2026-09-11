@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./sunghyun_banner.gif" width="100%" />
+<img src="./assets/sunghyun_banner.gif" width="100%" />
 Building practical products where Backend, AI, and Data come together.
 <br/>
 <a href="mailto:hyunhyun0326@gmail.com">
